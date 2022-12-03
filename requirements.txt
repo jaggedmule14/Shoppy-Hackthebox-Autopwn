@@ -1,0 +1,6 @@
+######-Requirements-######
+
+#Pwntools: https://docs.pwntools.com/en/stable/#
+pwntools
+#Colorama: https://pypi.org/project/colorama/#
+colorama
